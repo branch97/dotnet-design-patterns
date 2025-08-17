@@ -1,2 +1,1 @@
-# dotnet-design-patterns
-Design Pattern Examples in .NET/C#
+# Design Pattern Examples in .NET/C#
